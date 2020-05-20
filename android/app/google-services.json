@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "457152816031",
+    "firebase_url": "https://pfe-sportpal.firebaseio.com",
+    "project_id": "pfe-sportpal",
+    "storage_bucket": "pfe-sportpal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457152816031:android:0218835207bd180c6893aa",
+        "android_client_info": {
+          "package_name": "com.example.pfe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457152816031-u04hth9e4915l23d48mobfmh3hbt646c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu_gj9zjjSYoE8P-KZ-h-dpLpqgyFAQwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457152816031-u04hth9e4915l23d48mobfmh3hbt646c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
